@@ -4,7 +4,7 @@ import logging
 from tqdm import tqdm
 import argparse
 
-# test
+# test2
 parser = argparse.ArgumentParser()
 parser.add_argument('--task', type=str, default='synapse')
 parser.add_argument('--exp', type=str)
